@@ -59,7 +59,7 @@ The analysis was conducted through various steps:
     - Uttar Pradesh, Maharashtra, Karnataka, Delhi, Madhya Pradesh placed maximum orders.
     - These states see the highest number of purchases and spending.
 
-4. ** Analysis on the basis of Marital Status **:
+4. **Analysis on the basis of Marital Status**:
     - Unmarried people shop more than married ones.
     - Unmarried women tend to spend more than married women.
       
