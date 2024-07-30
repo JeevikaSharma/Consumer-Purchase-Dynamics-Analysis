@@ -69,7 +69,7 @@ The analysis was conducted through various steps:
 
 6. **Product Category Trends**:
     - Food, clothing & apparel, and electronics are the most popular product categories.
-    - These categories see the highest number of purchases and spending.
+    - These categories see the highest number of sales.
 
 ## Conclusion
 
