@@ -1,5 +1,5 @@
 
-# Sales Analysis
+# Consumer Purchase Dynamics Analysis
 
 ## Project Overview
 
