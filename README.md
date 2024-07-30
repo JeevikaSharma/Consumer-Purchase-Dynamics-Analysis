@@ -54,7 +54,7 @@ The analysis was conducted through various steps:
 2. **Age-wise Spending**:
     - AgeGroup 26-35 are the most active shoppers.
     - This age group also tends to spend the most.
-    - 
+      
 3. **State Wise Trends**:
     - Uttar Pradesh, Maharashtra, Karnataka, Delhi, Madhya Pradesh placed maximum orders.
     - These states see the highest number of purchases and spending.
